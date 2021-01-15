@@ -1,4 +1,4 @@
-#Medical Insurance claiming 
+# Medical Insurance claiming 
 Problem statement:
 
 Patient logs in, uploads medical/lab test bills and submits it for insurance. Notifications are sent to hospital and lab admin.
@@ -9,7 +9,7 @@ Insurance admin can check for approvals of hospital and lab after which he will 
 PolkaHealth.sol contract maintains the logic for this DApp.
 
 
-##Steps to deploy and interact with the contract:
+## Steps to deploy and interact with the contract:
 Copy and paste the contract code on https://remix.ethereum.org/
 Run an instance of ganache-cli on your local machine and connect your metamask wallet to it. Also, add the first 3 accounts from ganache to your metamask by importing their private keys and assign the following names to it:
 account 1: Hospital admin
